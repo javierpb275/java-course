@@ -1,0 +1,12 @@
+
+ :: BOOK ::
+ Title: Book 2
+ Editorial: editorial 2
+ Edition Date: Thu May 21 18:51:05 CEST 2020
+ Authors: 	author 0	author 1	author 2
+
+ :: BOOK ::
+ Title: Book 3
+ Editorial: editorial 3
+ Edition Date: Thu May 21 18:51:05 CEST 2020
+ Authors: 	author 0	author 1	author 2

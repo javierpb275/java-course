@@ -1,0 +1,21 @@
+
+ :: MOVIE ::
+ Title: Movie1
+ Genero: Genre1
+ Year: 2018
+ Creator: Creator1
+ Duration: 121
+
+ :: MOVIE ::
+ Title: Movie2
+ Genero: Genre2
+ Year: 2019
+ Creator: Creator2
+ Duration: 122
+
+ :: MOVIE ::
+ Title: Movie3
+ Genero: Genre3
+ Year: 2020
+ Creator: Creator3
+ Duration: 123
